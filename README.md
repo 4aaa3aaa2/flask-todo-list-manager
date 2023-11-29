@@ -1,5 +1,5 @@
 # flask-todo-list-manager
-# this is an earlier version of my todo list manager web app using flask
+this is an earlier version of my todo list manager web app using flask
 Developed 2023/05, with AWS cloud9, both tested on AWS and local venv enviromnent.
  NOTICE:
  1. "templates" folder includes the code of html page.
